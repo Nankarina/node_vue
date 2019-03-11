@@ -23,5 +23,3 @@ npm run build --report
 ```
     tips:每次更改app.js的内容之后，记得要重新执行app.js(即: node app.js)
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
